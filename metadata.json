@@ -1,0 +1,7 @@
+{
+  "name": "Horology Elite - Premium Watch Experience",
+  "description": "A high-end, AI-powered luxury watch catalog and personal stylist application featuring real-time recommendations and a sleek, immersive design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
